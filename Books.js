@@ -57,5 +57,3 @@
                     'the most authoritative book on this key language for Web 2.0 applications.'
     }
 ]
-
-export default Books;
